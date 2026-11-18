@@ -1,0 +1,38 @@
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local inventory data
+inventory.json
+inventory.db
+inventory.sqlite3
+
+# Testing cache
+.pytest_cache/
+.coverage
+
+
+
